@@ -5,5 +5,5 @@ tady bude projekt naší chytré domácnosti
 
 
 ## Zapojení vývojář:
-@mkocer
-@mkgymji
+- Michal Kočer @mkocer
+- MK from Gymji @mkgymji
