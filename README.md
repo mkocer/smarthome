@@ -2,7 +2,7 @@
 
 tady bude projekt naší chytré domácnosti
 
-![gj8_big.png]
+![GJ8 Logo](gj8_big.png)
 
 ## Zapojení vývojář:
 - Michal Kočer @mkocer
